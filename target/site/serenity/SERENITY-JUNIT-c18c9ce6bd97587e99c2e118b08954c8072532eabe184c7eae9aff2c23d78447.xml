@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Reservar Vuelo" skipped="0" tests="2" time="89.63" timestamp="2021-03-23 08:58:18"><testcase name="Buscar vuelos disponibles"/><testcase name="Seleccionar vuelo menor de precio"><error type="java.lang.reflect.InvocationTargetException"/><system-err>null&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
